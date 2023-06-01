@@ -1,6 +1,6 @@
 # Git_revision
 i do a recall to git command that i've learned but forget it late :) from Web dev Simplified
-So these  commands are :
+## So these  commands are :
 1.git clone 
 2.git add
 3.git commit -m ""
